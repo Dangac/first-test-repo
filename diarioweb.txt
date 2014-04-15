@@ -1,0 +1,3 @@
+Día 1
+He comenzado el aprendizaje de programación web.
+He aprendido cómo es el esqueleto de un website
