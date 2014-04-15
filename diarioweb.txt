@@ -4,3 +4,7 @@ He aprendido cómo es el esqueleto de un website
 
 Día 2
 He creado mi primera página web
+
+Día 3
+He empezado a aprender CSS.
+He añadido contenido CSS al website
