@@ -1,3 +1,5 @@
 Este es un fichero creado expresamente para el curso "Desarrollo de software colaborativo con Git, 1ª edición" de la OSL de la UGR.
 
 MODIFICACIÓN1: Este texto se ha añadido sólo para hacer que este fichero quede modificado.
+
+MODIFICACIÓN2: Esta modificación es para poder hacer el último commit, tras el rebase y la fusión de ramas
